@@ -632,7 +632,7 @@ p {
     transition: all .5s ease;
   }
 
-  /Seccion servicios/
+  Seccion servicios/
   .servicios article {
     margin: 1rem 0;
     -webkit-box-orient: vertical;
@@ -689,7 +689,7 @@ p {
     margin-top: auto;
   }
 
-  /Pagina servicios/
+  Pagina servicios/
   .paginas-internas .lista-servicios .col-md-4 {
     display: -webkit-box;
     display: -ms-flexbox;
